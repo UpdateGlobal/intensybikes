@@ -3889,7 +3889,7 @@ footer .social p a{
 	font-size: 13px;
 }
 .weekly-deal .price {
-	font-size: 22px;
+	font-size: 16px;
 	color: #219BEB;
 	font-weight: 700;
 }
@@ -3963,7 +3963,7 @@ footer .social p a{
 }
 .weekly-deal .price small {
 	color: #aaaaaa;
-	font-size: 16px;
+	font-size: 11px;
 	margin-left: 10px;
 	text-decoration: line-through;
 }
@@ -6381,4 +6381,8 @@ footer .social p a{
 .ri-li {
 	font-weight: bold;
 	color: #0088cc !important;
+}
+.ri-liu {
+	font-weight: bold;
+	color: #04ff17 !important;
 }

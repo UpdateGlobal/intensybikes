@@ -115,7 +115,7 @@
 					vertical_align : "center",
 					infinity : "on",
 					space : 0,
-					maxVisibleItems : 3,						
+					maxVisibleItems : 5,						
 					stretch:"off",						
 					fadeout:"on",						
 					maxRotation:0,						
